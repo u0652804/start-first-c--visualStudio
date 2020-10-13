@@ -2,8 +2,16 @@
  
  - install visual studio : https://visualstudio.microsoft.com/zh-hant/downloads/
  
- - fisrt ex - hello world : https://www.w3schools.com/cs/cs_getstarted.asp
+ - C# study : https://www.w3schools.com/cs/cs_getstarted.asp
  
  - setting IDE installed language(e.g. English) : tools > options > Environment > International Settings > select language : English > restart IDE
 
- - manage libraries : 
+ - Create first project : File > New > Project > Console APP(.NET framework) >
+ 
+ - install new libraries : right click on Project package > Manage NuGet Packages... > select Browse > edit name of library to search > install
+ 
+ - some libraries : 
+ 
+  - EasyHttp : https://github.com/EasyHttp/EasyHttp
+  
+  - 
