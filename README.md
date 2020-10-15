@@ -15,3 +15,5 @@
  - some libraries : 
  
      - EasyHttp : https://github.com/EasyHttp/EasyHttp
+     
+     - JSON : https://www.newtonsoft.com/json/help/html/T_Newtonsoft_Json_Linq_JObject.htm
