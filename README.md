@@ -1,4 +1,4 @@
-# start-first-c--visualStudio
+# start-first-c#-visualStudio
  
  - install visual studio : https://visualstudio.microsoft.com/zh-hant/downloads/
  
