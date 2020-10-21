@@ -12,6 +12,8 @@
  
  - install new libraries : right click on Project package > Manage NuGet Packages... > select Browse > edit name of library to search > install
  
+ - reference of window Application's project structure : https://docs.microsoft.com/zh-tw/dotnet/api/system.windows.window?view=netcore-3.1
+ 
  - some libraries : 
  
      - EasyHttp : https://github.com/EasyHttp/EasyHttp
